@@ -1,0 +1,51 @@
+/* CSS */
+
+
+body{
+    background-color: lightgray;
+}
+
+.navbar-custom{
+    background-color: purple;
+}
+
+.whiteBackground{
+    background-color: whitesmoke;
+}
+
+
+img{
+    width:48%;
+    height:48%;
+  }
+
+  .title {
+    color: purple;
+    font-family: Georgia;
+    font-weight: bolder;
+  }
+  
+
+.box {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding: 10px 30px 10px;
+    background-color: whitesmoke;
+    font-family: Georgia;
+    font-size: large;
+}
+
+.active, .hover:hover {
+    border-color:purple;
+    border-style: solid;
+    
+  }
+
+  .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: rgb(179, 92, 179);
+  }
+
+
+
+
+
