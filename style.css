@@ -9,6 +9,11 @@ body{
     background-color: purple;
 }
 
+.thead-custom{
+  background-color: rgb(44, 41, 41);
+  color: white
+}
+
 .whiteBackground{
     background-color: whitesmoke;
 }
@@ -44,6 +49,13 @@ img{
   .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
     background-color: rgb(179, 92, 179);
   }
+
+  .table {
+    font-size: 15px;
+    border-top-color: rgb(255, 255, 255);
+  }
+
+
 
 
 
